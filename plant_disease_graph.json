@@ -1,0 +1,1411 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "type": "Disease",
+      "name": "Green Leafhopper + Flooding"
+    },
+    {
+      "id": "1",
+      "type": "Solution",
+      "name": "Imidacloprid (0.4 ml/L of water) [20% a.i.]"
+    },
+    {
+      "id": "2",
+      "type": "Symptom",
+      "name": " reduced oxygen availability for roots."
+    },
+    {
+      "id": "3",
+      "type": "Symptom",
+      "name": "Waterlogged soil"
+    },
+    {
+      "id": "4",
+      "type": "Symptom",
+      "name": "Yellowing and stunting of plants."
+    },
+    {
+      "id": "5",
+      "type": "Disease",
+      "name": "Leaf Folder + Nitrogen Deficiency"
+    },
+    {
+      "id": "6",
+      "type": "Solution",
+      "name": "Chlorantraniliprole (0.3 ml/L of water) [18.5% a.i.]"
+    },
+    {
+      "id": "7",
+      "type": "Symptom",
+      "name": " feeding on leaf tissue."
+    },
+    {
+      "id": "8",
+      "type": "Symptom",
+      "name": "Leaves folded and webbed together"
+    },
+    {
+      "id": "9",
+      "type": "Symptom",
+      "name": "Yellowing of older leaves"
+    },
+    {
+      "id": "10",
+      "type": "Disease",
+      "name": "Rice Blast + Drought"
+    },
+    {
+      "id": "11",
+      "type": "Solution",
+      "name": "Tricyclazole (0.6 g/L of water) [75% a.i.]"
+    },
+    {
+      "id": "12",
+      "type": "Symptom",
+      "name": " neck rot."
+    },
+    {
+      "id": "13",
+      "type": "Symptom",
+      "name": "Diamond-shaped lesions on leaves"
+    },
+    {
+      "id": "14",
+      "type": "Disease",
+      "name": "Rice Blast + Flooding"
+    },
+    {
+      "id": "15",
+      "type": "Symptom",
+      "name": " neck rot; "
+    },
+    {
+      "id": "16",
+      "type": "Disease",
+      "name": "Rice Blast + Potassium Deficiency"
+    },
+    {
+      "id": "17",
+      "type": "Symptom",
+      "name": "Yellowing and browning of leaf edges."
+    },
+    {
+      "id": "18",
+      "type": "Disease",
+      "name": "Rice Stem Borer + High Temperature"
+    },
+    {
+      "id": "19",
+      "type": "Solution",
+      "name": "Chlorantraniliprole (0.4 ml/L of water) [18.5% a.i.]"
+    },
+    {
+      "id": "20",
+      "type": "Symptom",
+      "name": " leaf scorching."
+    },
+    {
+      "id": "21",
+      "type": "Symptom",
+      "name": " whiteheads in mature plants."
+    },
+    {
+      "id": "22",
+      "type": "Symptom",
+      "name": "Dead hearts in young plants"
+    },
+    {
+      "id": "23",
+      "type": "Symptom",
+      "name": "Heat stress"
+    },
+    {
+      "id": "24",
+      "type": "Disease",
+      "name": "Sheath Blight + Flooding"
+    },
+    {
+      "id": "25",
+      "type": "Solution",
+      "name": "Validamycin (2 g/L of water) [3% a.i.]"
+    },
+    {
+      "id": "26",
+      "type": "Symptom",
+      "name": " elliptical lesions on leaf sheath"
+    },
+    {
+      "id": "27",
+      "type": "Symptom",
+      "name": "Irregular"
+    },
+    {
+      "id": "28",
+      "type": "Disease",
+      "name": "Sheath Rot + Drought"
+    },
+    {
+      "id": "29",
+      "type": "Solution",
+      "name": "Carbendazim (1 g/L of water) [50% a.i.]"
+    },
+    {
+      "id": "30",
+      "type": "Symptom",
+      "name": "Rotting and discoloration of the leaf sheath; "
+    },
+    {
+      "id": "31",
+      "type": "Disease",
+      "name": "Sheath Rot + High Temperature"
+    },
+    {
+      "id": "32",
+      "type": "Disease",
+      "name": "Tungro Virus + Low Temperature"
+    },
+    {
+      "id": "33",
+      "type": "Solution",
+      "name": "Vector control with Imidacloprid (0.2 ml/L of water) [20% a.i.]"
+    },
+    {
+      "id": "34",
+      "type": "Symptom",
+      "name": " slower growth."
+    },
+    {
+      "id": "35",
+      "type": "Symptom",
+      "name": " yellow to orange discoloration."
+    },
+    {
+      "id": "36",
+      "type": "Symptom",
+      "name": "Cold stress"
+    },
+    {
+      "id": "37",
+      "type": "Symptom",
+      "name": "Stunted growth"
+    },
+    {
+      "id": "51",
+      "type": "Symptom",
+      "name": "Dry"
+    },
+    {
+      "id": "52",
+      "type": "Symptom",
+      "name": "Hopperburn"
+    },
+    {
+      "id": "53",
+      "type": "Disease",
+      "name": "Bacterial Leaf Blight + Phosphorus Deficiency"
+    },
+    {
+      "id": "54",
+      "type": "Solution",
+      "name": "Copper hydroxide (2 g/L of water) [77% a.i.]"
+    },
+    {
+      "id": "55",
+      "type": "Symptom",
+      "name": " bacterial ooze."
+    },
+    {
+      "id": "56",
+      "type": "Symptom",
+      "name": " stunted growth."
+    },
+    {
+      "id": "57",
+      "type": "Symptom",
+      "name": "Dark green or purplish leaves"
+    },
+    {
+      "id": "58",
+      "type": "Symptom",
+      "name": "Yellowing and drying of leaf tips"
+    },
+    {
+      "id": "59",
+      "type": "Disease",
+      "name": "Brown Planthopper + Drought"
+    },
+    {
+      "id": "60",
+      "type": "Solution",
+      "name": "Imidacloprid (0.4 ml/L of water) [17.8% a.i.]"
+    },
+    {
+      "id": "61",
+      "type": "Symptom",
+      "name": " cracked soil"
+    },
+    {
+      "id": "62",
+      "type": "Symptom",
+      "name": " stunted growth"
+    },
+    {
+      "id": "63",
+      "type": "Symptom",
+      "name": " wilting plants."
+    },
+    {
+      "id": "64",
+      "type": "Symptom",
+      "name": " wilting."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "0",
+      "target": "1",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "2",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "2",
+      "target": "15",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "2",
+      "target": "26",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "2",
+      "target": "27",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "2",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "15",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "26",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "27",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "3",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "4",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "4",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "5",
+      "target": "6",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "5",
+      "target": "7",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "5",
+      "target": "8",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "5",
+      "target": "9",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "5",
+      "target": "56",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "7",
+      "target": "8",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "7",
+      "target": "9",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "7",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "8",
+      "target": "7",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "8",
+      "target": "9",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "8",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "9",
+      "target": "7",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "9",
+      "target": "8",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "9",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "10",
+      "target": "11",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "10",
+      "target": "12",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "10",
+      "target": "13",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "10",
+      "target": "51",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "10",
+      "target": "61",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "10",
+      "target": "63",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "12",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "12",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "15",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 2
+    },
+    {
+      "source": "13",
+      "target": "17",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "13",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "14",
+      "target": "11",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "14",
+      "target": "2",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "14",
+      "target": "3",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "14",
+      "target": "13",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "14",
+      "target": "15",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "15",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 2
+    },
+    {
+      "source": "15",
+      "target": "17",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "16",
+      "target": "11",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "16",
+      "target": "13",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "16",
+      "target": "15",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "16",
+      "target": "17",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "17",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "15",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "18",
+      "target": "19",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "18",
+      "target": "20",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "18",
+      "target": "21",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "18",
+      "target": "22",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "18",
+      "target": "23",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "20",
+      "target": "21",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "22",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "23",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 2
+    },
+    {
+      "source": "20",
+      "target": "30",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "21",
+      "target": "20",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "21",
+      "target": "22",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "21",
+      "target": "23",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "22",
+      "target": "20",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "22",
+      "target": "21",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "22",
+      "target": "23",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "23",
+      "target": "20",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 2
+    },
+    {
+      "source": "23",
+      "target": "21",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "23",
+      "target": "22",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "23",
+      "target": "30",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "24",
+      "target": "25",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "24",
+      "target": "2",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "24",
+      "target": "3",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "24",
+      "target": "26",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "24",
+      "target": "27",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "24",
+      "target": "64",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "26",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "26",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "26",
+      "target": "27",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "26",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "27",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "27",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "27",
+      "target": "26",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "27",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "28",
+      "target": "29",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "28",
+      "target": "30",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "28",
+      "target": "51",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "28",
+      "target": "61",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "28",
+      "target": "63",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "30",
+      "target": "20",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "23",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "31",
+      "target": "29",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "31",
+      "target": "20",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "31",
+      "target": "23",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "31",
+      "target": "30",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "32",
+      "target": "33",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "32",
+      "target": "34",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "32",
+      "target": "35",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "32",
+      "target": "36",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "32",
+      "target": "37",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "34",
+      "target": "35",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "34",
+      "target": "36",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "34",
+      "target": "37",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "35",
+      "target": "34",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "35",
+      "target": "36",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "35",
+      "target": "37",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "36",
+      "target": "34",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "36",
+      "target": "35",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "36",
+      "target": "37",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "37",
+      "target": "34",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "37",
+      "target": "35",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "37",
+      "target": "36",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "12",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "30",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "52",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "51",
+      "target": "62",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "51",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "51",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "52",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "52",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "52",
+      "target": "62",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "52",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "52",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "53",
+      "target": "54",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "53",
+      "target": "55",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "53",
+      "target": "56",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "53",
+      "target": "57",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "53",
+      "target": "58",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "55",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "57",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "58",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "7",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "8",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "9",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "55",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "57",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "56",
+      "target": "58",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "57",
+      "target": "55",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "57",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "57",
+      "target": "58",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "58",
+      "target": "55",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "58",
+      "target": "56",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "58",
+      "target": "57",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "59",
+      "target": "60",
+      "type": "HAS_SOLUTION"
+    },
+    {
+      "source": "59",
+      "target": "51",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "59",
+      "target": "52",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "59",
+      "target": "61",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "59",
+      "target": "62",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "59",
+      "target": "63",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "59",
+      "target": "64",
+      "type": "HAS_SYMPTOM"
+    },
+    {
+      "source": "61",
+      "target": "12",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "61",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "61",
+      "target": "30",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "61",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "61",
+      "target": "52",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "61",
+      "target": "62",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "61",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "61",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "62",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "62",
+      "target": "52",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "62",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "62",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "62",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "12",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "13",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "30",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "63",
+      "target": "52",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 3
+    },
+    {
+      "source": "63",
+      "target": "62",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "63",
+      "target": "64",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "2",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "3",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "26",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "27",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "51",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "52",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "61",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "62",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    },
+    {
+      "source": "64",
+      "target": "63",
+      "type": "SUGGESTS_NEXT_QUESTION",
+      "weight": 1
+    }
+  ]
+}

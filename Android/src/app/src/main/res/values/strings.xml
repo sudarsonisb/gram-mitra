@@ -63,4 +63,5 @@
     <string name="benchmark" translatable="false">Run benchmark</string>
     <string name="warming_up" translatable="false">warming up…</string>
     <string name="running" translatable="false">running</string>
+    <string name="gram_mitra_app_name">Gram-Mitra</string>
 </resources>

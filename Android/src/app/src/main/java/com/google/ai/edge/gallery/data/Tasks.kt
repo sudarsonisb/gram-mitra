@@ -18,10 +18,10 @@ package com.google.ai.edge.gallery.data
 
 import androidx.annotation.StringRes
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.outlined.Forum
-import androidx.compose.material.icons.outlined.Mic
-import androidx.compose.material.icons.outlined.Mms
-import androidx.compose.material.icons.outlined.Widgets
+import androidx.compose.material.icons.outlined.MedicalServices
+import androidx.compose.material.icons.outlined.Pets
+import androidx.compose.material.icons.outlined.Agriculture
+import androidx.compose.material.icons.outlined.School
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableLongStateOf
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -74,7 +74,7 @@ data class Task(
 val TASK_LLM_CHAT =
   Task(
     type = TaskType.LLM_CHAT,
-    icon = Icons.Outlined.Forum,
+    icon = Icons.Outlined.MedicalServices,
     models = mutableListOf(),
     description = "Chat with on-device large language models",
     docUrl = "https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android",
@@ -86,7 +86,7 @@ val TASK_LLM_CHAT =
 val TASK_LLM_PROMPT_LAB =
   Task(
     type = TaskType.LLM_PROMPT_LAB,
-    icon = Icons.Outlined.Widgets,
+    icon = Icons.Outlined.School,
     models = mutableListOf(),
     description = "Single turn use cases with on-device large language models",
     docUrl = "https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android",
@@ -98,7 +98,7 @@ val TASK_LLM_PROMPT_LAB =
 val TASK_LLM_ASK_IMAGE =
   Task(
     type = TaskType.LLM_ASK_IMAGE,
-    icon = Icons.Outlined.Mms,
+    icon = Icons.Outlined.Agriculture,
     models = mutableListOf(),
     description = "Ask questions about images with on-device large language models",
     docUrl = "https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android",
@@ -110,7 +110,7 @@ val TASK_LLM_ASK_IMAGE =
 val TASK_LLM_ASK_AUDIO =
   Task(
     type = TaskType.LLM_ASK_AUDIO,
-    icon = Icons.Outlined.Mic,
+    icon = Icons.Outlined.Pets,
     models = mutableListOf(),
     // TODO(do not submit)
     description =
